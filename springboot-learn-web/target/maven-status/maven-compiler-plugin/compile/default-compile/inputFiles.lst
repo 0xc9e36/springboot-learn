@@ -1,0 +1,8 @@
+/home/tan/work/springboot-learn/springboot-learn-web/src/main/java/pers/tan/springbootlearnweb/mapper/CategoryMapper.java
+/home/tan/work/springboot-learn/springboot-learn-web/src/main/java/pers/tan/springbootlearnweb/pojo/Category.java
+/home/tan/work/springboot-learn/springboot-learn-web/src/main/java/pers/tan/springbootlearnweb/controller/IndexController.java
+/home/tan/work/springboot-learn/springboot-learn-web/src/main/java/pers/tan/springbootlearnweb/WebApplication.java
+/home/tan/work/springboot-learn/springboot-learn-web/src/main/java/pers/tan/springbootlearnweb/config/PageHelperConfig.java
+/home/tan/work/springboot-learn/springboot-learn-web/src/main/java/pers/tan/springbootlearnweb/controller/CategoryController.java
+/home/tan/work/springboot-learn/springboot-learn-web/src/main/java/pers/tan/springbootlearnweb/exception/GlobalExceptionHandler.java
+/home/tan/work/springboot-learn/springboot-learn-web/src/main/java/pers/tan/springbootlearnweb/controller/UploadController.java

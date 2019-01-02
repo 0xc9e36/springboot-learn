@@ -10,6 +10,7 @@
 
     <modules>
         <module>springboot-learn-quickstart</module>
+        <module>springboot-learn-web</module>
     </modules>
 
 </project>
